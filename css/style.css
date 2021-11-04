@@ -110,6 +110,7 @@ h1, h2, h3, h4, h5, h6 {
 #testimonials {
     background-color: #ef8172;
     color: #fff;
+    padding-bottom: 2%;
 }
 .testimonial-img {
     width: 10%;
